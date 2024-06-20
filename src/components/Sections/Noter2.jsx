@@ -29,11 +29,13 @@ function Noter2() {
                   className="text-3xl font-semibold mb-7"
                   style={{ width: "210px" }}
                 >
-                  Let’s Schedule a Meeting
+                  ¿Would you like to get to know more?
                 </h2>
                 <a
                   className="flex items-center btn text-white bg-[#4E47FF] rounded-lg  hover:bg-gray-800  w-80 h-16 sm:ml-0"
-                  href="#0"
+                  href="http://blog.seedchain.net/"
+                  target="_blank"
+                  rel="noreferrer"
                 >
                   {texts["section-two"].button1}
                 </a>
@@ -48,11 +50,12 @@ function Noter2() {
                 Unlimited Services
               </h2>
               <p>
-                Take a look at some of our recent projects to see how we{"'"}ve
-                helped businesses like yours succeed online.
+                To be the leading provider of AI and Salesforce solutions,
+                renowned for our innovation, customer-centric approach, and
+                transformative impact on businesses worldwide.
               </p>
 
-              <section className="grid grid-cols-2 py-5">
+              {/* <section className="grid grid-cols-2 py-5">
                 {texts["section-six"].items.map((item, index) => (
                   <div key={index} className="flex gap-2 m-2">
                     <svg
@@ -73,8 +76,8 @@ function Noter2() {
                     {item}
                   </div>
                 ))}
-              </section>
-              <button type="button" className="bg-[#F5F8FF]">
+              </section> */}
+              {/* <button type="button" className="bg-[#F5F8FF]">
                 <a
                   className="flex items-center btn text-black border-none  rounded-lg  hover:bg-[#4E47FF]  w-100 h-16 sm:ml-0"
                   href="#0"
@@ -84,7 +87,7 @@ function Noter2() {
                     <p className="">/mo</p>
                   </div>
                 </a>
-              </button>
+              </button> */}
             </div>
           </div>
         </div>

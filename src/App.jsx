@@ -29,9 +29,7 @@ function App() {
         <section>
           <Focus />
         </section>
-        <section>
-          <Reviews />
-        </section>
+        <section>{/* <Reviews /> */}</section>
       </Layout>
       <section className=" ">
         <MainFooter />

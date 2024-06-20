@@ -24,7 +24,13 @@ const Navbar = () => {
             <a href="/#works">{texts["section-one"].item3}</a>
           </li>
           <li className="hover:text-[#6953D3]">
-            <a href="/#">{texts["section-one"].item4}</a>
+            <a
+              href="http://blog.seedchain.net/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              {texts["section-one"].item4}
+            </a>
           </li>
           <li className="hover:text-[#6953D3]">
             <a href="/#services">{texts["section-one"].item5}</a>
@@ -45,7 +51,7 @@ const Navbar = () => {
             href="/#"
             style={{ backgroundColor: "#4E47FF", color: "white" }}
           >
-            Sign Up
+            Contact Us
           </a>
         </div>
       </div>

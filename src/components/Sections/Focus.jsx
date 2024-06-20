@@ -7,9 +7,7 @@ function Focus() {
         <div className="py-6 md:py-0 md:w-1/2 px-6 sm:px-10 md:px-0">
           <div className="relative flex flex-col items-center   ">
             <div className="md:ml-10 mt-10 w-7xl">
-              <h1 className="text-5xl font-semibold">
-                Frequently Asked Questions
-              </h1>
+              <h1 className="text-5xl font-semibold">Why Trust Us</h1>
             </div>
           </div>
         </div>
@@ -23,13 +21,12 @@ function Focus() {
                 <div className="collapse collapse-plus bg-white">
                   <input type="radio" name="my-accordion-3" defaultChecked />
                   <div className="collapse-title text-xl font-medium">
-                    How can I contact Inkyy Team? How can I contact Inkyy Team?
+                    Expertise
                   </div>
                   <div className="collapse-content">
                     <p>
-                      You can reach us through our contact form on our website
-                      or by emailing us at hello@inkyy.com We typically respond
-                      within 24 hours.
+                      Our team comprises seasoned professionals with extensive
+                      experience in AI and Salesforce.
                     </p>
                   </div>
                 </div>
@@ -37,43 +34,28 @@ function Focus() {
                 <div className="collapse collapse-plus bg-white">
                   <input type="radio" name="my-accordion-3" defaultChecked />
                   <div className="collapse-title text-xl font-medium">
-                    What services do you offer?
+                    Proven Track Record
                   </div>
                   <div className="collapse-content">
-                    <p>hello</p>
+                    <p>
+                      We've successfully transformed numerous businesses,
+                      helping them achieve remarkable results.
+                    </p>
                   </div>
                 </div>
                 {/* Collapse 3 */}
                 <div className="collapse collapse-plus bg-white">
                   <input type="radio" name="my-accordion-3" defaultChecked />
                   <div className="collapse-title text-xl font-medium">
-                    Do you provide website maintenance services?
+                    Customer-Centric
                   </div>
                   <div className="collapse-content">
-                    <p>hello</p>
+                    <p>
+                      We prioritize your needs and work closely with you to
+                      deliver solutions that exceed expectations.
+                    </p>
                   </div>
                 </div>
-                {/* Collapse 4 */}
-                <div className="collapse collapse-plus bg-white">
-                  <input type="radio" name="my-accordion-3" defaultChecked />
-                  <div className="collapse-title text-xl font-medium">
-                    How long does it take to design and develop a website?
-                  </div>
-                  <div className="collapse-content">
-                    <p>hello</p>
-                  </div>
-                </div>
-                {/* Collapse 5 */}
-                <div className="collapse collapse-plus bg-white">
-                  <input type="radio" name="my-accordion-3" defaultChecked />
-                  <div className="collapse-title text-xl font-medium">
-                    Do you require a deposit for projects?
-                  </div>
-                  <div className="collapse-content">
-                    <p>hello</p>
-                  </div>
-                </div>
-                {/*  */}
               </div>
             </section>
           </div>

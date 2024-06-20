@@ -31,16 +31,18 @@ function Noter() {
   return (
     <section>
       <div className="flex flex-col mb-7">
-        <h1 className="mx-auto text-5xl font-bold mb-10">Check our Work</h1>
+        <h1 className="mx-auto text-5xl font-bold mb-10">Who We Are</h1>
         <p className="mx-auto text-center" style={{ maidth: "450px" }}>
-          Take a look at some of our recent projects to see how we{"'"}ve helped
-          businesses like yours succeed online.
+          At Seedchain.net, we are pioneers in integrating AI and Salesforce to
+          transform your business operations. Our team of dedicated experts is
+          committed to delivering innovative solutions that drive growth and
+          efficiency.
         </p>
       </div>
       <Slider {...settings}>
         <div className=" p-5 rounded ">
           <img
-            src="https://res.cloudinary.com/db60chvpz/image/upload/v1715832407/FasterUI/syk6s3jvnccmdpohttob.png"
+            src="https://res.cloudinary.com/db60chvpz/image/upload/v1718901912/qypolzlayjf5jxaus5gc.png"
             alt="img1"
             className="border-8 border-white rounded-lg"
             style={{ borderWidth: "20px" }}
@@ -48,7 +50,7 @@ function Noter() {
         </div>
         <div className=" p-5 rounded ">
           <img
-            src="https://res.cloudinary.com/db60chvpz/image/upload/v1715832406/FasterUI/fix1egvlr4hglsck8fnv.png"
+            src="https://res.cloudinary.com/db60chvpz/image/upload/v1718901911/y1qp1qtoyc3q9thsrrpj.png"
             alt="img2"
             className="border-8 border-white rounded-lg"
             style={{ borderWidth: "20px" }}
@@ -56,7 +58,7 @@ function Noter() {
         </div>
         <div className=" p-5 rounded ">
           <img
-            src="https://res.cloudinary.com/db60chvpz/image/upload/v1715832406/FasterUI/gflzzw74xwbxtofwqdfk.png"
+            src="https://res.cloudinary.com/db60chvpz/image/upload/v1718901911/zot3496ic7womyhbrihy.png"
             alt="img3"
             className="border-8 border-white rounded-lg"
             style={{ borderWidth: "20px" }}

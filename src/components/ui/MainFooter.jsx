@@ -15,12 +15,15 @@ function MainFooter() {
             <img src={texts["section-last"].logo} alt="logo" width={130} />
           </a>
         </div>
+        <h1 className="mt-5">Those Who Have Trusted Us</h1>
         <p
-          style={{ maxWidth: "330px" }}
+          style={{ maxWidth: "520px" }}
           className="text-center md:text-start  pt-7 mb-5 md:mb-0"
         >
-          Ready to elevate your online presence? Contact us today to discuss
-          your project and discover how we can bring your vision to life.
+          From startups to Fortune 500 companies, businesses across various
+          industries have trusted Seedchain.net to elevate their operations.
+          Join the ranks of our satisfied clients and experience the difference
+          we can make.
         </p>
       </aside>
       <nav className="text-center md:text-start flex flex-col gap-2 grid grid-cols-2 md:grid-cols-5 ">

@@ -10,9 +10,9 @@
   },
   "section-two": {
     "Hero": "",
-    "title": "Awesome UI Dark Template for Webflow Agency",
+    "title": "Empowering Businesses, Elevating Potential.",
     "description": "No Coding required to make customization. the live customizer has everything you need.",
-    "button1": "Schedule Meeting",
+    "button1": "View",
     "view": "View Promotion",
     "infoButton1": "Free 14 Days Trial",
     "infoButton2": "One Time Payment",
@@ -31,26 +31,26 @@
     "item1": {
       "id": 1,
       "logo": "",
-      "title": "Removedor de fundo",
-      "description": "Torne o fundo transparente em qualquer foto."
+      "title": "AI Integration",
+      "description": "Leverage the power of artificial intelligence to optimize processes and enhance decision-making."
     },
     "item2": {
       "id": 2,
       "logo": "",
-      "title": "Gerador de texto",
-      "description": "Gere textos de espaço reservado para suas interfaces."
+      "title": "Salesforce Solutions",
+      "description": "Comprehensive Salesforce services including implementation, customization, and support."
     },
     "item3": {
       "id": 3,
       "logo": "",
-      "title": "Amplificador de imagem",
-      "description": "Amplie imagens e melhore sua resolução."
+      "title": "Data Analytics",
+      "description": "Transform raw data into actionable insights to drive strategic decisions."
     },
     "item4": {
       "id": 4,
       "logo": "",
-      "title": "Gerador de avatar",
-      "description": "Crie instantaneamente avatares de usuários."
+      "title": "Consulting & Training",
+      "description": "Expert guidance and training to help your team harness the full potential of AI and Salesforce."
     }
   },
   "section-four": {
@@ -61,26 +61,26 @@
     "item1": {
       "id": 1,
       "logo": "",
-      "title": "Removedor de fundo",
-      "description": "Torne o fundo transparente em qualquer foto."
+      "title": "AI Integration",
+      "description": "Leverage the power of artificial intelligence to optimize processes and enhance decision-making."
     },
     "item2": {
       "id": 2,
       "logo": "",
-      "title": "Gerador de texto",
-      "description": "Gere textos de espaço reservado para suas interfaces."
+      "title": "Salesforce Solutions",
+      "description": "Comprehensive Salesforce services including implementation, customization, and support."
     },
     "item3": {
       "id": 3,
       "logo": "",
-      "title": "Amplificador de imagem",
-      "description": "Amplie imagens e melhore sua resolução."
+      "title": "Data Analytics",
+      "description": "Transform raw data into actionable insights to drive strategic decisions."
     },
     "item4": {
       "id": 4,
       "logo": "",
-      "title": "Gerador de avatar",
-      "description": "Crie instantaneamente avatares de usuários."
+      "title": "Consulting & Training",
+      "description": "Expert guidance and training to help your team harness the full potential of AI and Salesforce."
     }
   },
   "section-five": {
@@ -96,8 +96,8 @@
   },
   "section-six": {
     "Noter2": "",
-    "title": "Pricing ",
-    "body": "Take a look at some of our recent projects to see how we've helped businesses like yours succeed online.",
+    "title": "Mission ",
+    "body": "Our mission is to empower businesses with advanced AI and Salesforce technologies, enabling them to achieve their full potential and stay ahead in a competitive market.",
     "items": [
       "Unlimited requests",
       "Unlimited requests",

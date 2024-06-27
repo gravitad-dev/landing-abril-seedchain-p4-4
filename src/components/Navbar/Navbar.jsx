@@ -48,7 +48,8 @@ const Navbar = () => {
         <div className="flex items-center">
           <a
             className="flex items-center btn  gap-2 px-6 py-2 rounded-5"
-            href="/#"
+            href="mailto:seedChain@gmail.com" target="_blank" rel="noreferrer"
+            
             style={{ backgroundColor: "#4E47FF", color: "white" }}
           >
             Contact Us

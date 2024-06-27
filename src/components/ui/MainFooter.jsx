@@ -11,9 +11,13 @@ function MainFooter() {
             border: "none",
           }}
         >
-          <a href="/">
-            <img src={texts["section-last"].logo} alt="logo" width={130} />
-          </a>
+          <a className=" text-xl flex items-center gap-5" href="/#">
+          <img src={texts["section-one"].logo} alt="logo" width={70}/>
+          <div className="flex">
+            <h1 className="text-2xl font-bold text-[#252432]">{texts["section-one"].logoName1}</h1>
+            <h1 className="text-2xl font-bold text-[#252432]">{texts["section-one"].logoName2}</h1>
+          </div>
+        </a>
         </div>
         <h1 className="mt-5">Those Who Have Trusted Us</h1>
         <p

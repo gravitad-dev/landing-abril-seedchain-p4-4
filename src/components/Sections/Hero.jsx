@@ -18,7 +18,7 @@ function Hero() {
             <div className="pt-6">
               <a
                 className="bg-[#252432] text-white p-3 px-8 rounded-lg"
-                href="/#"
+                href="mailto:seedChain@gmail.com" target="_blank" rel="noreferrer"
               >
                 Get in Touch
               </a>

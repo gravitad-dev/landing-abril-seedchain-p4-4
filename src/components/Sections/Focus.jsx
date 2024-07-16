@@ -7,7 +7,9 @@ function Focus() {
         <div className="py-6 md:py-0 md:w-1/2 px-6 sm:px-10 md:px-0">
           <div className="relative flex flex-col items-center   ">
             <div className="md:ml-10 mt-10 w-7xl">
-              <h1 className="text-5xl font-semibold">Why Trust Us</h1>
+              <h1 className="text-5xl font-semibold">
+                ¿Por qué confiar en nosotros?
+              </h1>
             </div>
           </div>
         </div>
@@ -21,12 +23,12 @@ function Focus() {
                 <div className="collapse collapse-plus bg-white">
                   <input type="radio" name="my-accordion-3" defaultChecked />
                   <div className="collapse-title text-xl font-medium">
-                    Expertise
+                    Experiencia
                   </div>
                   <div className="collapse-content">
                     <p>
-                      Our team comprises seasoned professionals with extensive
-                      experience in AI and Salesforce.
+                      Nuestro equipo está formado por profesionales
+                      experimentados con amplia experiencia en IA y Salesforce.
                     </p>
                   </div>
                 </div>
@@ -34,12 +36,12 @@ function Focus() {
                 <div className="collapse collapse-plus bg-white">
                   <input type="radio" name="my-accordion-3" defaultChecked />
                   <div className="collapse-title text-xl font-medium">
-                    Proven Track Record
+                    Historial comprobado
                   </div>
                   <div className="collapse-content">
                     <p>
-                      We've successfully transformed numerous businesses,
-                      helping them achieve remarkable results.
+                      hemos transformado con éxito numerosas empresas,
+                      ayudándolas a lograr resultados notables.
                     </p>
                   </div>
                 </div>
@@ -47,12 +49,13 @@ function Focus() {
                 <div className="collapse collapse-plus bg-white">
                   <input type="radio" name="my-accordion-3" defaultChecked />
                   <div className="collapse-title text-xl font-medium">
-                    Customer-Centric
+                    Centrado en el cliente
                   </div>
                   <div className="collapse-content">
                     <p>
-                      We prioritize your needs and work closely with you to
-                      deliver solutions that exceed expectations.
+                      priorizamos sus necesidades y trabajamos estrechamente con
+                      usted para ofrecerle soluciones que superen las
+                      expectativas.
                     </p>
                   </div>
                 </div>

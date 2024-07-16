@@ -4,17 +4,17 @@
     "logo": "https://res.cloudinary.com/db60chvpz/image/upload/v1719455044/hlagqkuxxicufqjsmzqd.png",
     "logoName1": "Seed",
     "logoName2": "Chain",
-    "item1": "Home",
-    "item2": "About",
-    "item3": "How it Works",
+    "item1": "Principal",
+    "item2": "Nosotros",
+    "item3": "Como funciona",
     "item4": "Blog",
-    "item5": "Services"
+    "item5": "Servicios"
   },
   "section-two": {
     "Hero": "",
-    "title": "Empowering Businesses, Elevating Potential.",
+    "title": "Empoderar a las empresas, elevar su potencial.",
     "description": "No Coding required to make customization. the live customizer has everything you need.",
-    "button1": "View",
+    "button1": "Ver",
     "view": "View Promotion",
     "infoButton1": "Free 14 Days Trial",
     "infoButton2": "One Time Payment",
@@ -58,31 +58,31 @@
   "section-four": {
     "recursos": "",
     "breadcrum": "RECURSOS",
-    "title": "What We do",
+    "title": "¿Que hacemos?",
     "title2": "ajuda no dia a dia",
     "item1": {
       "id": 1,
       "logo": "",
-      "title": "AI Integration",
-      "description": "Leverage the power of artificial intelligence to optimize processes and enhance decision-making."
+      "title": "Integración de IA",
+      "description": "aproveche el poder de la inteligencia artificial para optimizar los procesos y mejorar la toma de decisiones."
     },
     "item2": {
       "id": 2,
       "logo": "",
-      "title": "Salesforce Solutions",
-      "description": "Comprehensive Salesforce services including implementation, customization, and support."
+      "title": "Soluciones Salesforce",
+      "description": "Servicios integrales de Salesforce que incluyen implementación, personalización y soporte."
     },
     "item3": {
       "id": 3,
       "logo": "",
-      "title": "Data Analytics",
-      "description": "Transform raw data into actionable insights to drive strategic decisions."
+      "title": "Análisis de datos",
+      "description": "transforme los datos sin procesar en conocimientos prácticos para impulsar decisiones estratégicas."
     },
     "item4": {
       "id": 4,
       "logo": "",
-      "title": "Consulting & Training",
-      "description": "Expert guidance and training to help your team harness the full potential of AI and Salesforce."
+      "title": "Consultoría y capacitación",
+      "description": "orientación y capacitación de expertos para ayudar a su equipo a aprovechar todo el potencial de la IA y Salesforce."
     }
   },
   "section-five": {
@@ -98,8 +98,8 @@
   },
   "section-six": {
     "Noter2": "",
-    "title": "Mission ",
-    "body": "Our mission is to empower businesses with advanced AI and Salesforce technologies, enabling them to achieve their full potential and stay ahead in a competitive market.",
+    "title": "Misión ",
+    "body": "Nuestra misión es capacitar a las empresas con tecnologías avanzadas de IA y Salesforce, permitiéndoles alcanzar su máximo potencial y mantenerse a la vanguardia en un mercado competitivo.",
     "items": [
       "Unlimited requests",
       "Unlimited requests",

@@ -29,7 +29,7 @@ function Noter2() {
                   className="text-3xl font-semibold mb-7"
                   style={{ width: "210px" }}
                 >
-                  ¿Would you like to get to know more?
+                  ¿Le gustaría saber más?
                 </h2>
                 <a
                   className="flex items-center btn text-white bg-[#4E47FF] rounded-lg  hover:bg-gray-800  w-80 h-16 sm:ml-0"
@@ -47,12 +47,13 @@ function Noter2() {
           <div className="relative flex flex-col items-center   ">
             <div className="card border p-5 bg-white">
               <h2 className="text-3xl font-semibold mb-4">
-                Unlimited Services
+                Servicios Ilimitados
               </h2>
               <p>
-                To be the leading provider of AI and Salesforce solutions,
-                renowned for our innovation, customer-centric approach, and
-                transformative impact on businesses worldwide.
+                Ser el proveedor líder de soluciones de IA y Salesforce,
+                reconocido por nuestra innovación, enfoque centrado en el
+                cliente e impacto transformador en las empresas de todo el
+                mundo.
               </p>
 
               {/* <section className="grid grid-cols-2 py-5">

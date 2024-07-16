@@ -31,12 +31,12 @@ function Noter() {
   return (
     <section>
       <div className="flex flex-col mb-7">
-        <h1 className="mx-auto text-5xl font-bold mb-10">Who We Are</h1>
+        <h1 className="mx-auto text-5xl font-bold mb-10">¿Quienes Somos?</h1>
         <p className="mx-auto text-center" style={{ maidth: "450px" }}>
-          At Seedchain.net, we are pioneers in integrating AI and Salesforce to
-          transform your business operations. Our team of dedicated experts is
-          committed to delivering innovative solutions that drive growth and
-          efficiency.
+          En Seedchain.net, somos pioneros en integrar IA y Salesforce para
+          transformar sus operaciones comerciales. Nuestro equipo de expertos
+          dedicados está comprometido a ofrecer soluciones innovadoras que
+          impulsen el crecimiento y la eficiencia.
         </p>
       </div>
       <Slider {...settings}>

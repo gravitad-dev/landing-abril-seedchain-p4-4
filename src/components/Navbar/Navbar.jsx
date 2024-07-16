@@ -9,10 +9,14 @@ const Navbar = () => {
     <div className=" flex justify-between px-5 lg:px-10 py-10">
       <div className="my-auto">
         <a className=" text-xl flex items-center gap-5" href="/#">
-          <img src={texts["section-one"].logo} alt="logo" width={70}/>
+          <img src={texts["section-one"].logo} alt="logo" width={70} />
           <div className="flex">
-            <h1 className="text-2xl font-bold text-[#252432]">{texts["section-one"].logoName1}</h1>
-            <h1 className="text-2xl font-bold text-[#252432]">{texts["section-one"].logoName2}</h1>
+            <h1 className="text-2xl font-bold text-[#252432]">
+              {texts["section-one"].logoName1}
+            </h1>
+            <h1 className="text-2xl font-bold text-[#252432]">
+              {texts["section-one"].logoName2}
+            </h1>
           </div>
         </a>
       </div>
@@ -47,16 +51,17 @@ const Navbar = () => {
           href="/#"
           style={{ opacity: "50%" }}
         >
-          Sign In
+          Ingresa
         </a>
         <div className="flex items-center">
           <a
             className="flex items-center btn  gap-2 px-6 py-2 rounded-5"
-            href="mailto:seedChain@gmail.com" target="_blank" rel="noreferrer"
-            
+            href="mailto:seedChain@gmail.com"
+            target="_blank"
+            rel="noreferrer"
             style={{ backgroundColor: "#C0F2E6", color: "#252432" }}
           >
-            Contact Us
+            Contáctanos
           </a>
         </div>
       </div>

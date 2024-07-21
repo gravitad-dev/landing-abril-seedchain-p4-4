@@ -1,4 +1,4 @@
-import texts from "../../sections.json";
+import texts from '../../sections.json';
 
 function Noter2() {
   return (
@@ -9,15 +9,15 @@ function Noter2() {
             <div className="pt-5">
               <h1
                 className="text-6xl font-bold mb-3 text-start"
-                style={{ color: "#333333" }}
+                style={{ color: '#333333' }}
               >
-                {texts["section-six"].title}
+                {texts['section-six'].title}
               </h1>
               <p
                 className="text-[#444444] py-2 mb-3"
-                style={{ opacity: "60%" }}
+                style={{ opacity: '60%' }}
               >
-                {texts["section-six"].body}
+                {texts['section-six'].body}
               </p>
             </div>
 
@@ -27,17 +27,17 @@ function Noter2() {
               <div className="card border p-5 bg-white">
                 <h2
                   className="text-3xl font-semibold mb-7"
-                  style={{ width: "210px" }}
+                  style={{ width: '210px' }}
                 >
                   ¿Le gustaría saber más?
                 </h2>
                 <a
-                  className="flex items-center btn text-white bg-[#4E47FF] rounded-lg  hover:bg-gray-800  w-80 h-16 sm:ml-0"
+                  className="flex items-center btn text-white bg-[#252432] rounded-lg hover:bg-primary-600 w-80 h-16 sm:ml-0"
                   href="http://blog.seedchain.net/"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  {texts["section-two"].button1}
+                  {texts['section-two'].button1}
                 </a>
               </div>
             </section>

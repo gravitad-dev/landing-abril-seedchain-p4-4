@@ -1,4 +1,4 @@
-import texts from "../../sections.json";
+import texts from '../../sections.json';
 
 function Hero() {
   return (
@@ -13,12 +13,12 @@ function Hero() {
               // style={{ maxWidth: "750px" }}
               data-aos="zoom-y-out"
             >
-              {texts["section-two"].title}{" "}
+              {texts['section-two'].title}{' '}
             </h1>
             <div className="pt-6">
               <a
-                className="bg-[#252432] text-white p-3 px-8 rounded-lg"
-                href="mailto:seedChain@gmail.com"
+                className="bg-[#252432] text-white hover:bg-primary-600 p-3 px-8 rounded-lg"
+                href="https://blog.seedchain.net/contacto/"
                 target="_blank"
                 rel="noreferrer"
               >
